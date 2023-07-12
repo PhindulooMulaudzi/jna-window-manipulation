@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/3rd-party-java-libraries/jna/jna-5.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/3rd-party-java-libraries/jna/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/3rd-party-java-libraries/jna/jna-jpms-5.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/3rd-party-java-libraries/jna/jna-platform-5.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/3rd-party-java-libraries/jna/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/3rd-party-java-libraries/jna/jna-platform-jpms-5.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
